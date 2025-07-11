@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JaGeo/BAM-jobflow-tutorial/HEAD?urlpath=%2Fdoc%2Ftree%2Fhandson_jobflow.ipynb)
+
 # Jobflow tutorial
 This is an interactive jobflow tutorial for new users.
 
