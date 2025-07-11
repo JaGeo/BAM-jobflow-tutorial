@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JaGeo/BAM-jobflow-tutorial/HEAD?urlpath=%2Fdoc%2Ftree%2Fhandson_jobflow.ipynb)
+[![Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JaGeo/BAM-jobflow-tutorial/blob/main/handson_jobflow.ipynb)
+
 
 # Jobflow tutorial
 This is an interactive jobflow tutorial for new users.
