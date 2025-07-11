@@ -9,3 +9,7 @@ The tutorial is based on [https://github.com/Matgenix/jobflow_tutorial](https://
 
 Video material of the advanced lectures of jobflow, jobflow-remote can be found here: 
 - [Jobflow and Jobflow-remote](https://lhumos.org/collection/0/680bb4d7e4b0f0d2028027ce)
+
+
+You can also find an advanced jobflow tutorial for the computational materials science context here:
+[https://github.com/jageo/Advanced_Jobflow_Tutorial](https://github.com/jageo/Advanced_Jobflow_Tutorial)
